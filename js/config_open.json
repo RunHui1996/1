@@ -1,0 +1,342 @@
+{
+  "video": {
+    "sites": [
+  {
+        "key": "wogg",
+        "name": "♻乐享汇fans丨玩偶4K",
+        "type": 3,
+        "api": "wogg_open.js",
+        "ext": "a8819eb8c5fc40b48bf82583e5c192ed"
+   }, 
+{
+          "key": "subaibai",
+          "name": "♻乐享汇fans丨素白",
+          "type": 3,
+          "api": "subaibai_open.js"
+    },
+ {
+        "key": "kkys",
+        "name": "♻乐享汇fans丨快看",
+        "type": 3,
+        "api": "kkys_open.js"
+    },
+{
+        "key": "ikanbot",
+        "name": "♻乐享汇fans丨爱看",
+        "type": 3,
+        "api": "ikanbot_open.js"
+    }, 
+{
+        "key": "libvio",
+        "name": "♻乐享汇fans丨立播",
+        "type": 3,
+        "api": "libvio_open.js"
+   }, 
+ {
+        "key": "ng",
+        "name": "♻乐享汇fans丨南瓜",
+        "type": 3,
+        "api": "ng_open.js"
+   },
+   {
+        "key": "czzy",
+        "name": "♻乐享汇fans丨厂长①",
+        "type": 3,
+        "api": "czzy_open.js"
+   },
+{
+        "key": "czzy2",
+        "name": "♻乐享汇fans丨厂长②",
+        "type": 3,
+        "api": "czzy2_open.js"
+   },
+   {
+        "key": "czzy3",
+        "name": "♻乐享汇fans丨厂长③",
+        "type": 3,
+        "api": "czzy3_open.js"
+   },  	
+    {
+        "key": "zxzj",
+        "name": "♻乐享汇fans丨在线",
+        "type": 3,
+        "api": "zxzj_open.js"
+    },  
+{
+        "key": "kunyu77",
+        "name": "♻乐享汇fans丨七七",
+        "type": 3,
+        "api": "kunyu77_open.js"
+   },
+ {
+        "key": "cntv",
+        "name": "♻乐享汇fans丨央视网",
+        "type": 3,
+        "api": "cntv_open.js"
+    },  
+    {
+        "key": "ubestkid",
+        "name": "♻乐享汇fans丨贝乐虎",
+        "type": 3,
+        "api": "ubestkid_open.js"
+    },  
+    {
+        "key": "tuxiaobei",
+        "name": "♻乐享汇fans丨兔小贝",
+        "type": 3,
+        "api": "tuxiaobei_open.js"
+    }, 
+    {
+        "key": "boosj",
+        "name": "♻乐享汇fans丨童趣",
+        "type": 3,
+        "api": "boosj_open.js"
+    }, 	
+{
+        "key": "bili",
+        "name": "♻乐享汇fans丨我哔",
+        "type": 3,
+        "api": "mybili_open.js"
+   }, 
+{
+        "key": "bilibili",
+        "name": "♻乐享汇fans丨哔哩",
+        "type": 3,
+        "api": "bili_open.js",
+        "ext": { "categories": "音乐#动画#电影#电视剧#番剧#综艺#影视#国创#娱乐#游戏#搞笑#单机游戏#沙雕动画#沙雕穿越#沙雕",     "cookie": "DedeUserID=690781341;DedeUserID__ckMd5=cabc96906269c5b6;SESSDATA=2245ba24%2C1684212125%2C466fd%2Ab2;bili_jct=de6fdb60c10f8a83910aa55d79407b4e;" 
+         }
+   }, 
+  {
+        "key": "kuqimv",
+        "name": "♻乐享汇fans丨MV网",
+        "type": 3,
+        "api": "kuqimv_open.js"
+    },
+     {
+        "key": "sharenice",
+        "name": "♻乐享汇fans丨短视频",
+        "type": 3,
+        "api": "sharenice_open.js"
+   }, 
+ {
+        "key": "dj0898",
+        "name": "♻乐享汇fans丨DJ网",
+        "type": 3,
+        "api": "dj0898_open.js"
+   }, 
+{
+        "key": "duboku",
+        "name": "♻乐享汇fans丨独播①",
+        "type": 3,
+        "api": "duboku_open.js"
+    }, 	
+    {
+        "key": "dubokufq",
+        "name": "♻乐享汇fans丨独播②✈️",
+        "type": 3,
+        "api": "dubokufq_open.js"
+    },   
+   {
+        "key": "nivod",
+        "name": "♻乐享汇fans丨泥巴✈️",
+        "type": 3,
+        "api": "nivod_open.js",
+        "ext": "888解忧愁"
+    }, 
+    {
+        "key": "mtsp",
+        "name": "🔞♻乐享汇fans丨蜜桃",
+        "type": 3,
+        "api": "mtsp_open.js"
+     },
+     {
+        "key": "18av",
+        "name": "🔞♻乐享汇fans丨18AV",
+        "type": 3,
+        "api": "18av_open.js"
+     }	
+    ]
+  },
+  "read": {
+     "sites": [      
+    {
+        "key": "bookan",
+        "name": "♻乐享汇fans丨博看",
+        "type": 10,
+        "api": "bookan_open.js"
+    },
+    {
+        "key": "lbgs",
+        "name": "♻乐享汇fans丨老白",
+        "type": 10,
+        "api": "lbgs_open.js"
+    },	
+    {
+        "key": "230ts_book",
+        "name": "♻乐享汇fans丨艾尚①",
+        "type": 10,
+        "api": "assets://js/230ts_book_open.js"
+    },
+   {
+        "key": "230ts",
+        "name": "♻乐享汇fans丨艾尚②",
+        "type": 3,
+        "api": "assets://js/230ts_open.js"
+   }
+   ]
+  },   
+  "pan": {
+    "sites": [
+      {
+        "key": "alist",
+        "name": "Alist",
+        "type": 40,
+        "api": "alist_open.js",
+        "ext": [
+          {
+            "name": "🙋丫仙女",
+            "server": "http://alist.xiaoya.pro/",
+            "startPage": "/",
+            "showAll": false,
+            "search": true,
+            "headers": {
+              "Authorization": ""
+            },
+            "params": {
+              "/abc": {
+                "password": "123"
+              },
+              "/abc/abc": {
+                "password": "123"
+              }
+            }
+          },
+          {
+           "name": "✨合集大全",
+           "server": "http://www.jczyl.top:5244/"
+          },
+          {
+           "name": "✨东哥",
+           "server": "http://101.34.67.237:5244/"
+          },
+          {
+           "name": "✨美云",
+           "server": "https://h.dfjx.ltd/"
+          },
+          {
+           "name": "✨小新盘",
+           "server": "https://pan.cdnxin.top/"
+          },
+          {
+           "name": "✨白云tv",
+           "server": "http://breadmyth.asuscomm.com:22222/"
+          },
+          {
+           "name": "✨小雅分类",
+           "server": "http://www.214728327.xyz:5201/"
+          },
+          {
+           "name": "✨瑶瑶",
+           "server": "https://lyly.run.goorm.io/"
+          },
+          {
+           "name": "✨潇洒个人",
+           "server": "https://alist.azad.asia/"
+          },
+          {
+           "name": "✨鹏程",
+           "server": "https://pan.pengcheng.team/"
+          },
+          {
+           "name": "✨轻弹浅唱",
+           "server": "http://vtok.pp.ua/"
+          },
+          {
+           "name": "✨小丫",
+           "server": "http://alist.xiaoya.pro/"
+          },
+          {
+           "name": "✨触光",
+           "server": "https://pan.ichuguang.com"
+          },
+          {
+           "name": "✨星梦",
+           "server": "https://pan.bashroot.top"
+          },
+          {
+           "name": "✨弱水分享",
+           "server": "http://shicheng.wang:555/"
+          },
+          {
+           "name": "✨神器云",
+           "server": "https://alist.ygxz.xyz/"
+          },
+          {
+           "name": "✨资源大站",
+           "server": "https://pan.ecve.cn/"
+          },
+          {
+           "name": "✨雨呢",
+           "server": "https://pan.clun.top/"
+          },
+          {
+           "name": "✨OEIO",
+           "server": "https://o.oeio.repl.co/"
+          },
+          {
+           "name": "✨悦享盘",
+           "server": "https://nics.eu.org/"
+          },
+          {
+           "name": "✨分享者",
+           "server": "https://ofoo.ml/"
+          },
+          {
+           "name": "✨PRO",
+           "server": "https://alist.prpr.run/"
+          },
+          {
+           "name": "✨小陈",
+           "server": "https://ypan.cc/"
+          },
+          {
+            "name": "🐋一只鱼",
+            "server": "https://alist.youte.ml"
+          },
+          {
+            "name": "🌊七米蓝",
+            "server": "https://al.chirmyram.com"
+          },
+          {
+            "name": "🐉神族九帝",
+            "server": "https://alist.shenzjd.com"
+          },
+          {
+            "name": "☃️姬路白雪",
+            "server": "https://pan.jlbx.xyz"
+          },
+          {
+            "name": "✨星梦",
+            "server": "https://pan.bashroot.top"
+          },
+          {
+            "name": "💢repl",
+            "server": "https://ali.liucn.repl.co"
+          },
+         {
+            "name": "🔞罗汉果",
+            "server": "https://lala-ofbip.run.goorm.site/"
+          },
+          {
+            "name": "💦讯维云盘",
+            "server": "https://pan.xwbeta.com"
+          },
+          {
+            "name": "公众号：乐享汇fans",
+            "server": "https://pan.xwbeta.com"
+          }
+        ]
+      }
+    ]
+  }
+}
